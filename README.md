@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Jackson Gutknecht and I am a Business Analytics and Marketing student at the University of Iowa. I am interested in working in market analysis and my top interests are sports, Survivor, and cooking.
 <!--
 **jacksongutknecht/jacksongutknecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
